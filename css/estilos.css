@@ -1,0 +1,144 @@
+.col-lg-6 p {
+  font-size: 20px;
+  font-family: "tahoma";
+  font-weight: bold; }
+
+/* variables */
+.col-lg-6 h1 {
+  color: blue; }
+
+.col-lg-6 p {
+  color: yellow;
+  font-size: 20px; }
+
+.texto {
+  background: linear-gradient(to bottom, black); }
+  .texto__encabezado {
+    color: white; }
+  .texto__parrafo {
+    font-size: 20px; }
+    .texto__parrafo--color {
+      color: blue; }
+      @media only screen and (max-width: 768px) {
+        .texto__parrafo--color {
+          color: yellow; } }
+
+.col-lg-6 p {
+  font-size: 20px;
+  font-family: "tahoma";
+  font-weight: bold; }
+
+.col-lg-6 p {
+  font-size: 20px;
+  font-family: "tahoma";
+  font-weight: bold; }
+
+/* variables */
+.col-lg-6 h1 {
+  color: blue; }
+
+.col-lg-6 p {
+  color: yellow;
+  font-size: 20px; }
+
+.texto {
+  background: linear-gradient(to bottom, black); }
+  .texto__encabezado {
+    color: white; }
+  .texto__parrafo {
+    font-size: 20px; }
+    .texto__parrafo--color {
+      color: blue; }
+      @media only screen and (max-width: 768px) {
+        .texto__parrafo--color {
+          color: yellow; } }
+
+.col-lg-12, .col-xs-12, .col-lg-4, .container-fluid, .row {
+  padding: 0;
+  margin: 0; }
+
+.nav-link {
+  color: black !important; }
+
+.col-lg-6 p {
+  font-size: 20px;
+  font-family: "tahoma";
+  font-weight: bold; }
+
+/* variables */
+.col-lg-6 h1 {
+  color: blue; }
+
+.col-lg-6 p {
+  color: yellow;
+  font-size: 20px; }
+
+.texto {
+  background: linear-gradient(to bottom, black); }
+  .texto__encabezado {
+    color: white; }
+  .texto__parrafo {
+    font-size: 20px; }
+    .texto__parrafo--color {
+      color: blue; }
+      @media only screen and (max-width: 768px) {
+        .texto__parrafo--color {
+          color: yellow; } }
+
+.navbar {
+  text-align: justify;
+  color: black; }
+
+.titulo {
+  text-align: flex-end;
+  padding: 50px 0; }
+  @media only screen and (max-width: 768px) {
+    .titulo__principal {
+      font-size: 35px;
+      font-weight: bold; } }
+  @media only screen and (min-width: 1024px) {
+    .titulo__principal {
+      font-size: 50px;
+      font-weight: bold; } }
+  .titulo__principal--color {
+    color: blue; }
+
+/* vista desktop */
+@media only screen and (min-width: 1024px) {
+  .navbar-expand-lg .navbar-collapse {
+    justify-content: center; }
+  .footerFlex {
+    display: flex;
+    justify-content: space-around; } }
+
+/* vista mobile */
+@media only screen and (max-width: 767px) {
+  .footerFlex {
+    display: flex;
+    flex-direction: column; }
+  .centrado {
+    justify-content: flex-start; } }
+
+/*imagen de fondo body*/
+body {
+  background-image: url(https://fondosmil.com/fondo/5564.jpg); }
+
+h1 {
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  font-size: 50px; }
+
+.centrado {
+  margin: 10px auto;
+  display: block; }
+
+.navbar-nav {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Dosis', sans-serif; }
+
+.mapa {
+  float: inherit; }
+
+.navbar {
+  color: antiquewhite; }
